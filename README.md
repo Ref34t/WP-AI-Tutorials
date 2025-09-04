@@ -1,54 +1,15 @@
-# WordPress AI Tutorials
+# WP AI Tutorials
 
-A comprehensive tutorial series for WordPress AI development with practical examples, videos, and articles.
+[_Part of the **AI Building Blocks for WordPress** initiative_](https://make.wordpress.org/ai/2025/07/17/ai-building-blocks)
 
-## Tutorial Structure
+Learn WordPress AI development through practical examples using the PHP AI Client SDK.
 
-### 📚 01 - Getting Started
-Basic WordPress AI integration with content generation examples.
+## Tutorials
 
-**Materials:**
-- 📖 [Tutorial Code](./01-getting-started/)
-- 🎥 Video: Coming Soon
-- 📰 Article: Coming Soon
+1. **[Getting Started](01-getting-started/)** - Basic AI content generation and WordPress integration
+2. **Advanced Techniques** - Coming Soon
+3. **Micro App** - Coming Soon
 
-### 🚀 02 - Advanced Techniques
-Advanced AI techniques for WordPress including multimodal AI, function calling, and optimization strategies.
+## Overview
 
-**Materials:**
-- 📖 [Tutorial Code](./02-advanced-techniques/)
-- 🎥 Video: Coming Soon
-- 📰 Article: Coming Soon
-
-### 🔨 03 - Micro App
-A complete micro application demonstrating real-world implementation of advanced AI techniques in WordPress.
-
-**Materials:**
-- 📖 [Tutorial Code](./03-micro-app/)
-- 🎥 Video: Coming Soon
-- 📰 Article: Coming Soon
-
-## Quick Start
-
-```bash
-# Clone and setup
-git clone [repository-url]
-cd Tutorials
-
-# Install dependencies for any tutorial
-cd 01-getting-started
-composer install
-```
-
-## Documentation
-
-- [Content Strategy](./docs/content-strategy.md)
-- [Content Ideas](./docs/content-ideas.md)
-- [Full Documentation](./docs/README.md)
-
-## Scripts
-
-Automation scripts for development and deployment:
-- [Build Scripts](./scripts/)
-- [Test Scripts](./scripts/)
-- [Deployment Scripts](./scripts/)
+These tutorials provide hands-on experience with WordPress AI development, covering everything from basic setup to advanced integration patterns. Each tutorial includes working code examples, detailed explanations, and best practices for building AI-powered WordPress applications.

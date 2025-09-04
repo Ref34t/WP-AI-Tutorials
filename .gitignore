@@ -7,6 +7,8 @@ composer.lock
 package-lock.json
 
 # Build outputs
+scripts
+docs
 dist/
 build/
 *.tar.gz

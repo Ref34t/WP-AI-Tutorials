@@ -1,0 +1,13 @@
+# Environment variables with sensitive API keys
+.env
+
+# Composer dependencies
+/vendor/
+
+# IDE files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
