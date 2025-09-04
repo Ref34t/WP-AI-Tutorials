@@ -1,8 +1,6 @@
 # WP AI Tutorials
 
-[_Part of the **AI Building Blocks for WordPress** initiative_](https://make.wordpress.org/ai/2025/07/17/ai-building-blocks)
-
-Learn WordPress AI development through practical examples using the PHP AI Client SDK.
+Learn WordPress AI development through practical examples covering the complete [**AI Building Blocks for WordPress**](https://make.wordpress.org/ai/2025/07/17/ai-building-blocks) ecosystem using the PHP AI Client SDK.
 
 ## Tutorials
 
